@@ -5,4 +5,4 @@
  * This program will say hello world 
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, MTHS!')
